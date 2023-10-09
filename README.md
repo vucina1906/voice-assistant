@@ -11,8 +11,11 @@
 - Create api.py in the same folder as your main app.py script and write 3 API key variables that are API keys that you got from previously mentioned sites or use other sites that you prefer. Also as a fourth variable add your email so it will be imported in the email.py script and used in SendGrid. 
 
 **news_key = "********************************"**
+
 **weather_key = "**********************************"**
+
 **sendgrid_key = "*********************************"****
+
 **sender_email = "*********************************"**
 
 Enjoy!
